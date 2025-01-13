@@ -10,3 +10,4 @@ spec:
     matchLabels:
       app: my-app
   unhealthyPodEvictionPolicy: AlwaysAllow
+  
